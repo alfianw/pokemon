@@ -1,12 +1,12 @@
 main{
-    background-image: url(/asset/background.jpg);
+    background-image: url(asset/background.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 #modal{
-    background-image: url(/asset/background2.png);
+    background-image: url(asset/background2.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
